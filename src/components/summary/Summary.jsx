@@ -1,5 +1,4 @@
-import "./Summary.css";
-import Feature from "./feature.jsx";
+import Feature from "./feature";
 import { features } from "../../data.js";
 
 export default function Summary() {
